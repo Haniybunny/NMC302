@@ -1,0 +1,47 @@
+
+
+
+body {background-color:rgb(218, 199, 138)}
+
+#Logo {float:left;}
+
+#Icon {float:right;}
+
+#Services {clear:both; border-top:Solid black 1px; padding:20px 0px 20px 0px; border-bottom:Solid black 1px;}
+
+#Services a {font-family:Arial; color:black; margin:10px 0px 0px 100px;}
+
+#Services a:hover {color:orange;}
+
+#Title {color:rgb(184, 119, 0); border-bottom: solid 1px black}
+
+#Box1 
+{
+    background-color: grey; 
+    margin-right:30px; 
+    margin-left:5px;
+    width:250px;
+    float:right;
+    border-top:solid 30px green;
+    
+}
+
+
+#Box2 {background-color: grey; margin-right:30px; margin-left:5px; width:250px; float:right;  border-top:solid 30px palevioletred;}
+
+
+#Box3 {background-color: grey; margin-right:30px;margin-left:5px; width:250px; float:right; border-top:solid 30px purple;}
+
+
+
+
+
+
+#Footer {clear:both;text-align:center;border-top:solid black 1px; padding:5px 5px 5px 5px }
+
+#Kotak {background-color:white; margin:0px auto 0px auto; width:900px}
+
+#LeftContent {font-size:14px;}
+
+#Kotakkotak {background-color:white; margin:0px auto 0px auto; width:1000px}
+
